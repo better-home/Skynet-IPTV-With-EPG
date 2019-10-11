@@ -42,7 +42,6 @@ udp://@233.136.41.20:1234
 #HD
 #EXTINF:-1,Lietuvos ryto televizija
 udp://@239.255.15.67:1234
-udp://@239.255.12.8:1234
 
 #EXTINF:-1,Lietuvos ryto televizija
 udp://@239.255.13.7:1234
